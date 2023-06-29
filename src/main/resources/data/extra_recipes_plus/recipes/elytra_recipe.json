@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "1": {
+      "item": "minecraft:shulker_shell"
+    },
+    "2": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "3": {
+      "item": "minecraft:shulker_shell"
+    },
+    "4": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "5": {
+      "item": "minecraft:shulker_shell"
+    },
+    "6": {
+      "item": "minecraft:shulker_shell"
+    },
+    "7": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "8": {
+      "item": "minecraft:shulker_shell"
+    }
+  },
+  "result": {
+    "item": "minecraft:elytra",
+    "count": 1
+  }
+}

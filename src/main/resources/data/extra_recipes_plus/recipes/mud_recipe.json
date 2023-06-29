@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:potion"
+    },
+    "1": {
+      "item": "minecraft:dirt"
+    },
+    "2": {
+      "item": "minecraft:potion"
+    },
+    "3": {
+      "item": "minecraft:dirt"
+    },
+    "5": {
+      "item": "minecraft:dirt"
+    },
+    "6": {
+      "item": "minecraft:potion"
+    },
+    "7": {
+      "item": "minecraft:dirt"
+    },
+    "8": {
+      "item": "minecraft:potion"
+    }
+  },
+  "result": {
+    "item": "minecraft:mud",
+    "count": 4
+  }
+}

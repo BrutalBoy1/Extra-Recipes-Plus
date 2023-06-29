@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "extra_recipes_plus",
+  "version": "1.0.0",
+  "name": "Extra Recipes Plus",
+  "description": "This mod simply adds more and sometimes modified recipes to Minecraft",
+  "authors": [
+    "Brutal Boy 1"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "GNU General Public License version 3 (GPLv3)",
+  "icon": "assets/extra_recipes_plus/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.extrarecipesplus.ExtraRecipesPlusMod"
+    ],
+    "client": [
+      "net.mcreator.extrarecipesplus.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "~1.20",
+    "java": ">=17"
+  }
+}

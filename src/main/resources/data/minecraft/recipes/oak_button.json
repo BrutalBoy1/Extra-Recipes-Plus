@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:oak_button",
+    "count": 16
+  }
+}

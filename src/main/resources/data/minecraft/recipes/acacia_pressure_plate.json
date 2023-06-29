@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:acacia_planks"
+    },
+    "1": {
+      "item": "minecraft:acacia_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:acacia_pressure_plate",
+    "count": 16
+  }
+}
